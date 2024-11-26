@@ -1,0 +1,3 @@
+SELECT *
+FROM vehicles v
+WHERE VIN = '51A8943FERRARI23';
